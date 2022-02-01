@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<omim version="1.0">
+<searchResponse>
+<search>gene_symbol:MTATP6</search>
+<expandedSearch>gene_symbol:MTATP6</expandedSearch>
+<parsedSearch>+gene_symbol:mtatp6 ()</parsedSearch>
+<searchSuggestion />
+<searchSpelling />
+<filter />
+<expandedFilter />
+<fields />
+<searchReport />
+<totalResults>1</totalResults>
+<startIndex>0</startIndex>
+<endIndex>0</endIndex>
+<sort />
+<operator />
+<searchTime>1.0</searchTime>
+<entryList>
+<entry>
+<prefix>*</prefix>
+<mimNumber>516060</mimNumber>
+<status>live</status>
+<titles>
+<preferredTitle>ATP SYNTHASE 6; MTATP6</preferredTitle>
+<alternativeTitles>COMPLEX V, ATP SYNTHASE, SUBUNIT ATPase 6; ATP6</alternativeTitles>
+</titles>
+<matches>mtatp6</matches>
+</entry>
+</entryList>
+</searchResponse>
+</omim>
