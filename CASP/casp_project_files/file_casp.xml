@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<omim version="1.0">
+<searchResponse>
+<search>gene_symbol:CASP1</search>
+<expandedSearch>gene_symbol:CASP1</expandedSearch>
+<parsedSearch>+gene_symbol:casp1 ()</parsedSearch>
+<searchSuggestion />
+<searchSpelling />
+<filter />
+<expandedFilter />
+<fields />
+<searchReport />
+<totalResults>1</totalResults>
+<startIndex>0</startIndex>
+<endIndex>0</endIndex>
+<sort />
+<operator />
+<searchTime>2.0</searchTime>
+<entryList>
+<entry>
+<prefix>*</prefix>
+<mimNumber>147678</mimNumber>
+<status>live</status>
+<titles>
+<preferredTitle>CASPASE 1, APOPTOSIS-RELATED CYSTEINE PROTEASE; CASP1</preferredTitle>
+<alternativeTitles>INTERLEUKIN 1-BETA CONVERTASE; IL1BC;;
+IL1B-CONVERTASE;;
+IL1B-CONVERTING ENZYME; ICE</alternativeTitles>
+</titles>
+<geneMap>
+<sequenceID>7528</sequenceID>
+<chromosome>11</chromosome>
+<chromosomeSymbol>11</chromosomeSymbol>
+<chromosomeSort>848</chromosomeSort>
+<chromosomeLocationStart>105025442</chromosomeLocationStart>
+<chromosomeLocationEnd>105035590</chromosomeLocationEnd>
+<transcript>ENST00000436863.7</transcript>
+<cytoLocation>11q22.2-q22.3</cytoLocation>
+<computedCytoLocation>11q22.3</computedCytoLocation>
+<mimNumber>147678</mimNumber>
+<geneSymbols>CASP1, IL1BC</geneSymbols>
+<geneName>Caspase 1, apoptosis-related cysteine protease (interleukin-1, beta convertase)</geneName>
+<mouseGeneSymbol>Casp1</mouseGeneSymbol>
+<mouseMgiID>MGI:96544</mouseMgiID>
+<geneIDs>834</geneIDs>
+<ensemblIDs>ENSG00000137752,ENST00000527979.5</ensemblIDs>
+<approvedGeneSymbols>CASP1</approvedGeneSymbols>
+</geneMap>
+<matches>casp1</matches>
+</entry>
+</entryList>
+</searchResponse>
+</omim>
