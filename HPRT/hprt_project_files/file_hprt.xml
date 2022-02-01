@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<omim version="1.0">
+<searchResponse>
+<search>gene_symbol:HPRT1</search>
+<expandedSearch>gene_symbol:HPRT1</expandedSearch>
+<parsedSearch>+gene_symbol:hprt1 ()</parsedSearch>
+<searchSuggestion />
+<searchSpelling />
+<filter />
+<expandedFilter />
+<fields />
+<searchReport />
+<totalResults>1</totalResults>
+<startIndex>0</startIndex>
+<endIndex>0</endIndex>
+<sort />
+<operator />
+<searchTime>1.0</searchTime>
+<entryList>
+<entry>
+<prefix>*</prefix>
+<mimNumber>308000</mimNumber>
+<status>live</status>
+<titles>
+<preferredTitle>HYPOXANTHINE GUANINE PHOSPHORIBOSYLTRANSFERASE 1; HPRT1</preferredTitle>
+<alternativeTitles>HPRT;;
+HGPRT</alternativeTitles>
+</titles>
+<geneMap>
+<sequenceID>4107</sequenceID>
+<chromosome>23</chromosome>
+<chromosomeSymbol>X</chromosomeSymbol>
+<chromosomeSort>662</chromosomeSort>
+<chromosomeLocationStart>134460164</chromosomeLocationStart>
+<chromosomeLocationEnd>134500667</chromosomeLocationEnd>
+<transcript>ENST00000298556.8</transcript>
+<cytoLocation>Xq26.2</cytoLocation>
+<computedCytoLocation>Xq26.2-q26.3</computedCytoLocation>
+<mimNumber>308000</mimNumber>
+<geneSymbols>HPRT1, HPRT</geneSymbols>
+<geneName>Hypoxanthine phosphoribosyltransferase 1</geneName>
+<mouseGeneSymbol>Hprt</mouseGeneSymbol>
+<mouseMgiID>MGI:96217</mouseMgiID>
+<geneIDs>3251</geneIDs>
+<ensemblIDs>ENSG00000165704,ENST00000298556.8</ensemblIDs>
+<approvedGeneSymbols>HPRT1</approvedGeneSymbols>
+<phenotypeMapList>
+<phenotypeMap>
+<mimNumber>308000</mimNumber>
+<phenotype>Hyperuricemia, HRPT-related</phenotype>
+<phenotypeMimNumber>300323</phenotypeMimNumber>
+<phenotypeMappingKey>3</phenotypeMappingKey>
+<phenotypeInheritance>X-linked recessive</phenotypeInheritance>
+</phenotypeMap>
+<phenotypeMap>
+<mimNumber>308000</mimNumber>
+<phenotype>Lesch-Nyhan syndrome</phenotype>
+<phenotypeMimNumber>300322</phenotypeMimNumber>
+<phenotypeMappingKey>3</phenotypeMappingKey>
+<phenotypeInheritance>X-linked recessive</phenotypeInheritance>
+</phenotypeMap>
+</phenotypeMapList>
+</geneMap>
+<matches>hprt1</matches>
+</entry>
+</entryList>
+</searchResponse>
+</omim>
