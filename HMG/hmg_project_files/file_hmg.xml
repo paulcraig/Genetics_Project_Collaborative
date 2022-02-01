@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<omim version="1.0">
+<searchResponse>
+<search>gene_symbol:HMGCR</search>
+<expandedSearch>gene_symbol:HMGCR</expandedSearch>
+<parsedSearch>+gene_symbol:hmgcr ()</parsedSearch>
+<searchSuggestion />
+<searchSpelling />
+<filter />
+<expandedFilter />
+<fields />
+<searchReport />
+<totalResults>1</totalResults>
+<startIndex>0</startIndex>
+<endIndex>0</endIndex>
+<sort />
+<operator />
+<searchTime>1.0</searchTime>
+<entryList>
+<entry>
+<prefix>+</prefix>
+<mimNumber>142910</mimNumber>
+<status>live</status>
+<titles>
+<preferredTitle>3-HYDROXY-3-METHYLGLUTARYL-CoA REDUCTASE; HMGCR</preferredTitle>
+<alternativeTitles>HMG-CoA REDUCTASE</alternativeTitles>
+<includedTitles>LOW DENSITY LIPOPROTEIN CHOLESTEROL LEVEL QUANTITATIVE TRAIT LOCUS 3, INCLUDED; LDLCQ3, INCLUDED;;
+STATINS, ATTENUATED CHOLESTEROL LOWERING BY, INCLUDED</includedTitles>
+</titles>
+<geneMap>
+<sequenceID>2903</sequenceID>
+<chromosome>5</chromosome>
+<chromosomeSymbol>5</chromosomeSymbol>
+<chromosomeSort>248</chromosomeSort>
+<chromosomeLocationStart>75336333</chromosomeLocationStart>
+<chromosomeLocationEnd>75362115</chromosomeLocationEnd>
+<transcript>ENST00000680940.1</transcript>
+<cytoLocation>5q13.3-q14</cytoLocation>
+<computedCytoLocation>5q13.3</computedCytoLocation>
+<mimNumber>142910</mimNumber>
+<geneSymbols>HMGCR, LDLCQ3</geneSymbols>
+<geneName>3-hydroxy-3-methylglutaryl-Coenzyme A reductase; HMG CoA reductase</geneName>
+<mouseGeneSymbol>Hmgcr</mouseGeneSymbol>
+<mouseMgiID>MGI:96159</mouseMgiID>
+<geneIDs>3156</geneIDs>
+<ensemblIDs>ENSG00000113161,ENST00000287936.9</ensemblIDs>
+<approvedGeneSymbols>HMGCR</approvedGeneSymbols>
+<phenotypeMapList>
+<phenotypeMap>
+<mimNumber>142910</mimNumber>
+<phenotype>[Low density lipoprotein cholesterol level QTL 3]</phenotype>
+<phenotypeMappingKey>3</phenotypeMappingKey>
+<phenotypeInheritance />
+</phenotypeMap>
+<phenotypeMap>
+<mimNumber>142910</mimNumber>
+<phenotype>[Statins, attenuated cholesterol lowering by]</phenotype>
+<phenotypeMappingKey>3</phenotypeMappingKey>
+<phenotypeInheritance />
+</phenotypeMap>
+</phenotypeMapList>
+</geneMap>
+<matches>hmgcr</matches>
+</entry>
+</entryList>
+</searchResponse>
+</omim>
